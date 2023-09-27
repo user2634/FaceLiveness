@@ -56,7 +56,6 @@ class FaceIDService {
             }
     }
 
-    // Получить результаты сессии Face Liveness
     func getFaceLivenessSessionResults(baseURL: String, sessionId: String, completion: @escaping (Result<[String: Any], Error>) -> Void) {
         let endpoint = baseURL + "/liveness/GetFaceLivenessSessionResults"
         let parameters: [String: Any] = [
