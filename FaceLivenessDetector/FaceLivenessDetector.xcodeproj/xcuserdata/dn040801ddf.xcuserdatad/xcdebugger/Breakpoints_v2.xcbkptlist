@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A6C6800-F247-4BA8-8276-2B6F1575461E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "586A9C8C-8829-4855-8AC5-0A4B92D6FA6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "createFaceLivenessSession(baseURL:auditImagesLimit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "586A9C8C-8829-4855-8AC5-0A4B92D6FA6B - 9fc69ac752612001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "586A9C8C-8829-4855-8AC5-0A4B92D6FA6B - 9fc69ac752612001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98A9EBE4-24BA-40F1-9D31-536B69DA6840"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "createFaceLivenessSession(baseURL:auditImagesLimit:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98A9EBE4-24BA-40F1-9D31-536B69DA6840 - 9fc69ac752612632"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "98A9EBE4-24BA-40F1-9D31-536B69DA6840 - 2be7da1a91e57375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "98A9EBE4-24BA-40F1-9D31-536B69DA6840 - 9fc69ac752612632"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2319">
+               </Location>
+               <Location
+                  uuid = "98A9EBE4-24BA-40F1-9D31-536B69DA6840 - 2be7da1a91e57375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in FaceLivenessDetector.FaceIDService.createFaceLivenessSession(baseURL: Swift.String, auditImagesLimit: Swift.Int, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dn040801ddf/Desktop/FaceLivenessDetector/FaceLivenessDetector/FaceLivenessDetectorAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "225">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F21D4DCB-62AE-4B7F-AA84-5ABC0498295E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/FaceLivenessDetector-boaaeobmhgnddeavvubipblmuvly/SourcePackages/checkouts/amplify-swift/AmplifyPlugins/Predictions/AWSPredictionsPlugin/Liveness/Events/LivenessEvent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "Exception"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8035D835-A2F0-4D88-9C96-486D6679B49B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/FaceLivenessDetector-boaaeobmhgnddeavvubipblmuvly/SourcePackages/checkouts/amplify-swift/AmplifyPlugins/Predictions/AWSPredictionsPlugin/Liveness/Service/FaceLivenessSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "receive(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDCB5C9F-2DC7-45A4-805C-D66EE32BE861"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/FaceLivenessDetector-boaaeobmhgnddeavvubipblmuvly/SourcePackages/checkouts/amplify-swift/AmplifyPlugins/Predictions/AWSPredictionsPlugin/Liveness/Service/FaceLivenessSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "receive(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
