@@ -37,7 +37,7 @@ class SessionIDViewController: UIViewController {
     
     
     func showFaceDetectorViewController(sessionID: String) {
-        let storyboard = UIStoryboard(name: "Main", bundle: nil) // Укажите имя вашего Storyboard
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
         if let detectorVC = storyboard.instantiateViewController(withIdentifier: "FaceLivenessDetectorViewController") as? FaceLivenessDetectorViewController {
             detectorVC.sessionID = sessionID
             self.navigationController?.pushViewController(detectorVC, animated: true)
